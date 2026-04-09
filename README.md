@@ -1,15 +1,5 @@
 # Suhrob Rahmatullayev  
  
- **`Software Developer`**  
- 
- I have a keen interest in collaborating and building digital solutions that solve real-world problems. As I consider myself a creative technologist, I leverage my expertise in software development to merge technical skills with creative thinking. This combination allows me to develop user-centric solutions that have a tangible impact on the world.
- 
- **`Разработчик ПО`**
- 
- Я очень заинтересован в сотрудничестве и создании цифровых решений, которые решают реальные проблемы. Поскольку я считаю себя креативным технологом, я использую свои знания в разработке программного обеспечения для объединения технических навыков с творческим мышлением. Это сочетание позволяет мне разрабатывать ориентированные на пользователя решения, которые оказывают ощутимое влияние на мир.
- 
- ---  
- 
  ## 🚀 Technologies & Tools  
  
  <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -19,6 +9,7 @@
  <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
  <img src="https://img.shields.io/badge/-Tailwind CSS-4285F4?style=flat&logo=tailwindcss&logoColor=ffffff">
  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+ <img src="https://img.shields.io/badge/-Vue-000000?style=flat&logo=vue&logoColor=00c8ff">
  <img src="https://img.shields.io/badge/-NextJs-fff?style=flat&logo=next.js&logoColor=000">
  <img src="https://img.shields.io/badge/-MongoDB-F29111?style=flat&logo=mongodb&logoColor=FFFFFF">
  <img src="https://img.shields.io/badge/-ExpressJs-787878?style=flat">
